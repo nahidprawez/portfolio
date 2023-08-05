@@ -20,7 +20,8 @@
     "react-syntax-highlighter": "^15.5.0",
     "rehype-raw": "^6.1.1",
     "sass": "^1.52.1",
-    "swiper": "^8.3.0"
+    "swiper": "^8.3.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "eslint": "8.16.0",
